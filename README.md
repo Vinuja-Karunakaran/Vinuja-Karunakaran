@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vinuja-Karunakaran
+- 👀 I’m interested in computer networks, network engineering, and programming.
+- 🌱 I’m currently learning advanced networking concepts and improving my programming skills in languages like Python and Java.
+- 💞️ I’m looking to collaborate on networking projects, open-source software, or anything that combines networking and programming.
+- 📫 How to reach me: vinuja.karuna@gmail.com or connect with me on https://www.linkedin.com/in/vinuja-karunakaran-08a3632a1/.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy solving complex network problems and coding challenges in my free time!
